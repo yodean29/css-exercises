@@ -1,0 +1,30 @@
+p {
+    background-color: hsl(2, 59%, 90%);
+    font-size: 18px;
+    text-align: center;
+}
+
+.zwei {
+    font-family: "Courier New";
+}
+
+.drei {
+    font-family: "DejaVu Sans";
+    font-size: 24px;
+    
+}
+
+.vier {
+    font-family: "Times New Roman";
+    color: blue; 
+}
+#secondelement {
+    color: blue;
+    font-size: 36px;
+    
+}
+#fourthelement {
+
+    background-color: hsl(120, 43%, 68%);
+    font-size: 24px;
+}
