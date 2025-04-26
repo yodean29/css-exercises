@@ -1,30 +1,22 @@
-p {
-    background-color: hsl(2, 59%, 90%);
-    font-size: 18px;
-    text-align: center;
-}
-
-.zwei {
-    font-family: "Courier New";
-}
-
-.drei {
-    font-family: "DejaVu Sans";
-    font-size: 24px;
-    
-}
-
-.vier {
-    font-family: "Times New Roman";
-    color: blue; 
+.odd {
+    background-color: hsl(1, 59%, 76%);
+    font-family: 'Verdana''DejaVus''sans-serif'
 }
 #secondelement {
     color: blue;
     font-size: 36px;
-    
 }
+
+#thirdelement,
+#fourthelement {
+ font-size: 24px;
+ font-weight: bold;
+
+}
+
+
 #fourthelement {
 
-    background-color: hsl(120, 43%, 68%);
-    font-size: 24px;
+    background-color: hsl(120, 32%, 70%);
+    
 }
